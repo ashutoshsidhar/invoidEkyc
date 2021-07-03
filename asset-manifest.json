@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/invoidEkyc/static/css/main.dfa312cc.chunk.css",
-    "main.js": "/invoidEkyc/static/js/main.e4d3312b.chunk.js",
-    "main.js.map": "/invoidEkyc/static/js/main.e4d3312b.chunk.js.map",
+    "main.js": "/invoidEkyc/static/js/main.951172b6.chunk.js",
+    "main.js.map": "/invoidEkyc/static/js/main.951172b6.chunk.js.map",
     "runtime-main.js": "/invoidEkyc/static/js/runtime-main.6f3d104a.js",
     "runtime-main.js.map": "/invoidEkyc/static/js/runtime-main.6f3d104a.js.map",
-    "static/js/2.7cfa56a2.chunk.js": "/invoidEkyc/static/js/2.7cfa56a2.chunk.js",
-    "static/js/2.7cfa56a2.chunk.js.map": "/invoidEkyc/static/js/2.7cfa56a2.chunk.js.map",
+    "static/js/2.e656218d.chunk.js": "/invoidEkyc/static/js/2.e656218d.chunk.js",
+    "static/js/2.e656218d.chunk.js.map": "/invoidEkyc/static/js/2.e656218d.chunk.js.map",
     "index.html": "/invoidEkyc/index.html",
     "static/css/main.dfa312cc.chunk.css.map": "/invoidEkyc/static/css/main.dfa312cc.chunk.css.map",
-    "static/js/2.7cfa56a2.chunk.js.LICENSE.txt": "/invoidEkyc/static/js/2.7cfa56a2.chunk.js.LICENSE.txt",
+    "static/js/2.e656218d.chunk.js.LICENSE.txt": "/invoidEkyc/static/js/2.e656218d.chunk.js.LICENSE.txt",
     "static/media/comp.png": "/invoidEkyc/static/media/comp.b360c568.png",
     "static/media/digi logo.png": "/invoidEkyc/static/media/digi logo.4193aced.png",
     "static/media/try2.1c8a93c5.svg": "/invoidEkyc/static/media/try2.1c8a93c5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f3d104a.js",
-    "static/js/2.7cfa56a2.chunk.js",
+    "static/js/2.e656218d.chunk.js",
     "static/css/main.dfa312cc.chunk.css",
-    "static/js/main.e4d3312b.chunk.js"
+    "static/js/main.951172b6.chunk.js"
   ]
 }
