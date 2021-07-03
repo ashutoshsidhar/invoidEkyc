@@ -9,7 +9,7 @@ import Digilocker from './digilocker';
 import Manual from './manual';
 import Complete from './complete';
 import bgform from './images/try2.svg'
-
+import Circle from './components/circle/circle';
 function App() {
   return (
     <div className="App " style={{
@@ -21,14 +21,20 @@ function App() {
       // overflow:"scroll"
       // color: "#f5f5f5"
     }}>
-      <Route exact path="/" component={Home}></Route>
-      <Route exact path="/aadhaar" component={Aadhar}></Route>
-      <Route exact path="/Otp" component={Otp}></Route>
-      <Route exact path="/Pan" component={Pan}></Route>
-      <Route exact path="/digilocker" component={Digilocker}></Route>
-      <Route exact path="/manual" component={Manual}></Route>
-      <Route exact path="/complete" component={Complete}></Route>
-
+      <Route  to="/" component={Home}></Route>
+      <Route  to="/aadhaar" component={Aadhar}></Route>
+      <Route  to="/Otp" component={Otp}></Route>
+      <Route  to="/Pan" component={Pan}></Route>
+      <Route  to="/digilocker" component={Digilocker}></Route>
+      <Route  to="/manual" component={Manual}></Route>
+      <Route  to="/complete" component={Complete}></Route>
+      <Link Classname="button" to="/"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/aadhaar"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/Pan"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/digilocker"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/Otp"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/manual"><Circle className="next"></Circle></Link>
+      <Link Classname="button" to="/complete"><Circle className="next"></Circle></Link>
     </div>
   );
 }

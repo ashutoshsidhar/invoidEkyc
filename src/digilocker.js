@@ -18,7 +18,7 @@ export default function Digilocker() {
             <h1 className="note" style={{color: "white"}}>Identity Verification</h1>
             <FormBG2 className="iimage"></FormBG2>
             <Textbox type="text" name="Enter Mobile Number"></Textbox>
-            <Link Classname="button" to="/Complete"><Circle className="next"></Circle></Link>
+            <Link Classname="button" to="./Complete"><Circle className="next"></Circle></Link>
             <div className="noteimp" >Note: We Will Fetch Your Identity Proofs From DigiLocker Automatically</div>
         </div>
     )

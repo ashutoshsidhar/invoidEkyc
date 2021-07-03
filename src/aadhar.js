@@ -15,7 +15,7 @@ export default function Aadhar() {
             width: "100vw",
           }}> <h1 className="note" style={{color: "white"}}>Identity Verification</h1>
               <Textbox className="info" type="text" name="Enter Aadhaar VID"></Textbox>
-              <Link Classname="button" to="/Otp"><Circle className="next"></Circle></Link>
+              <Link Classname="button" to="./Otp"><Circle className="next"></Circle></Link>
             
         </div>
     )
