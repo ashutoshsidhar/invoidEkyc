@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/invoidEkyc/static/css/main.dfa312cc.chunk.css",
+    "main.css": "/invoidEkyc/static/css/main.6fe678fd.chunk.css",
     "main.js": "/invoidEkyc/static/js/main.c152b9a4.chunk.js",
     "main.js.map": "/invoidEkyc/static/js/main.c152b9a4.chunk.js.map",
     "runtime-main.js": "/invoidEkyc/static/js/runtime-main.6f3d104a.js",
@@ -8,7 +8,7 @@
     "static/js/2.f789b236.chunk.js": "/invoidEkyc/static/js/2.f789b236.chunk.js",
     "static/js/2.f789b236.chunk.js.map": "/invoidEkyc/static/js/2.f789b236.chunk.js.map",
     "index.html": "/invoidEkyc/index.html",
-    "static/css/main.dfa312cc.chunk.css.map": "/invoidEkyc/static/css/main.dfa312cc.chunk.css.map",
+    "static/css/main.6fe678fd.chunk.css.map": "/invoidEkyc/static/css/main.6fe678fd.chunk.css.map",
     "static/js/2.f789b236.chunk.js.LICENSE.txt": "/invoidEkyc/static/js/2.f789b236.chunk.js.LICENSE.txt",
     "static/media/comp.png": "/invoidEkyc/static/media/comp.b360c568.png",
     "static/media/digi logo.png": "/invoidEkyc/static/media/digi logo.4193aced.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.6f3d104a.js",
     "static/js/2.f789b236.chunk.js",
-    "static/css/main.dfa312cc.chunk.css",
+    "static/css/main.6fe678fd.chunk.css",
     "static/js/main.c152b9a4.chunk.js"
   ]
 }
