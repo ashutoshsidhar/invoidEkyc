@@ -1,0 +1,9 @@
+.circle{
+    height: 100px;
+    margin-top: 20px;
+
+}
+.circle:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}

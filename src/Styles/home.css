@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.note{
+    padding-top: 20vh;
+    margin-bottom: 180px;
+    font-weight: bolder;
+}
+#aadhar-verify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    min-width: 100px;
+    min-height: 10px;
+}
+#digilocker-verify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    min-width: 100px;
+    min-height: 50px;
+}
+#manual-verify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+    min-width: 100px;
+    min-height: 50px;
+    
+}
+.button{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

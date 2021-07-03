@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+.notee{
+    padding-top: 10vh;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    
+}
+.link{margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  text-transform: uppercase;
+  color: #0000ff;
+  width: 100px;
+}
+.link:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    
+}
+#aadhaar-upload{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-right: auto;
+    text-align: center;
+    width: 100px;
+}
+.up{
+    
+    min-width: 400px;
+    height: 40px;
+    left: 50px;
+    margin-left: 43vw;
+    
+    font-family: HP Simplified Jpan;
+    
+    font-size: 20px;
+        
+}
+
+#pan-upload{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: auto; */
+    margin-right: auto;
+    text-align: center;
+    width: 100px;
+}
+.next{
+    display: block;
+    
+}
